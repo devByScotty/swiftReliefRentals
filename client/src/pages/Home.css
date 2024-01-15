@@ -1,0 +1,15 @@
+.Home{
+    height:100vh;
+    overflow:hidden;
+    background-image:  url('../pictures/loginBackground2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+
+  .homeData {
+
+      margin-top:110px;
+
+  }
